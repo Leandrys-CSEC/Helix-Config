@@ -1,0 +1,12 @@
+theme="github_dark"
+
+[editor]
+mouse = false
+cursorline = true
+auto-save = true
+completion-timeout = 5
+true-color = true
+
+[editor.soft-wrap]
+enable = true
+
